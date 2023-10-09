@@ -45,3 +45,5 @@ switch(jobChoice){
     case "0":
         console.log("Je koos" +departments.marketing.jobs[0].title+ "een uitdagende rol!" + "departments.marketing.jobs[0].description + ");
 }
+
+/*/ niet helemaal af wegens tijdgebrek../*/
